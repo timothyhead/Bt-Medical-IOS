@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>182633050545-jdttmucvsf308ivv660agaqq1iele5m6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.182633050545-jdttmucvsf308ivv660agaqq1iele5m6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>182633050545-0u7vnupe4oskq070gle9lpn8fbe41tkk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBk-dnzQK3T1erSVorm-KQKcf_UT8XUnLg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>182633050545</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>yuriynefedov.BT-Tech-2</string>
+	<key>PROJECT_ID</key>
+	<string>sketch-upp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sketch-upp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:182633050545:ios:b21770a68f07dede2c0d90</string>
+	<key>DATABASE_URL</key>
+	<string>https://sketch-upp-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
